@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load the CSV files
-jhk_pres24 = pd.read_csv('pres24_jhk_scrape_statesodds_output_v2.csv')
+jhk_pres24 = pd.read_csv('pres24_jhk_scrape_statesodds_output.csv')
 fte_538 = pd.read_csv('pres24_538_scrape_stateodds_output.csv')
 ddhq = pd.read_csv('pres24_ddhq_scrape_stateodds_output.csv')
 rwh = pd.read_csv('pres24_rwh_scrape_stateodds_output.csv')
