@@ -20,27 +20,6 @@ Each scraper targets a different forecast model and extracts state-by-state win 
 
 ---
 
-## Repo Structure
-
-```
-election-2024-forecast-scrapers/
-├── scrapers/
-│   ├── fte_state_odds.py          # FiveThirtyEight scraper (Selenium/headless Chrome)
-│   ├── jhk_state_odds.py          # JHK Forecasts scraper
-│   ├── ddhq_state_odds.py         # Decision Desk HQ scraper
-│   └── rtwh_state_odds.py         # Race to the WH scraper
-├── data/
-│   ├── master_data_join.csv       # Joined dataset across all models, used in Observable
-│   ├── pres24_538_scrape_stateodds_output.csv
-│   ├── pres24_ddhq_scrape_stateodds_output.csv
-│   ├── pres24_jhk_scrape_statesodds_output_v2.csv
-│   └── pres24_rwh_scrape_stateodds_output.csv
-└── analysis/
-    └── expected_value.py          # Expected value calculations across model forecasts
-```
-
----
-
 ## Data Schema
 
 Each scraper outputs a two-column CSV:
