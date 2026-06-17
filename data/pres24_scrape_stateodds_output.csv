@@ -1,0 +1,58 @@
+State,FTE,Standard,RWH,DDHQ,FIPS,Abbreviation
+Alabama,0.0,0.0,0.0,0.0,01,AL
+Alaska,0.029,0.02,0.101,0.05,02,AK
+Arizona,0.326,0.32,0.365,0.37,04,AZ
+Arkansas,0.0,0.0,0.0,0.0,05,AR
+California,1.0,1.0,1.0,1.0,06,CA
+Colorado,0.989,0.95,0.994,0.93,08,CO
+Connecticut,0.998,0.99,1.0,0.99,09,CT
+Delaware,0.997,0.99,1.0,0.98,10,DE
+District Of Columbia,1.0,1.0,1.0,1.0,11,DC
+Florida,0.105,0.1,0.123,0.17,12,FL
+Georgia,0.405,0.38,0.468,0.37,13,GA
+Hawaii,1.0,1.0,1.0,1.0,15,HI
+Idaho,0.0,0.0,0.0,0.0,16,ID
+Illinois,0.996,0.98,1.0,0.98,17,IL
+Indiana,0.002,0.0,0.0,0.01,18,IN
+Iowa,0.07,0.17,0.357,0.1,19,IA
+Kansas,0.002,0.01,0.015,0.0,20,KS
+Kentucky,0.0,0.0,0.0,0.0,21,KY
+Louisiana,0.001,0.01,0.002,0.0,22,LA
+Maine,0.957,0.92,0.978,0.95,23,ME
+Maine Cd 1,0.999,1.0,1.0,1.0,23,ME-1
+Maine Cd 2,0.097,0.13,0.22,0.13,23,ME-2
+Maryland,1.0,1.0,1.0,1.0,24,MD
+Massachusetts,1.0,1.0,1.0,1.0,25,MA
+Michigan,0.605,0.61,0.672,0.56,26,MI
+Minnesota,0.879,0.88,0.931,0.76,27,MN
+Mississippi,0.0,0.01,0.003,0.0,28,MS
+Missouri,0.006,0.01,0.0,0.02,29,MO
+Montana,0.001,0.0,0.0,0.0,30,MT
+Nebraska,0.001,0.0,0.0,0.0,31,NE
+Nebraska Cd 1,0.002,0.04,0.06,0.02,31,NE-1
+Nebraska Cd 2,0.92,0.9,0.93,0.82,31,NE-2
+Nebraska Cd 3,0.0,0.0,0.0,0.0,31,NE-3
+Nevada,0.503,0.48,0.547,0.43,32,NV
+New Hampshire,0.889,0.86,0.897,0.91,33,NH
+New Jersey,0.993,0.99,1.0,0.98,34,NJ
+New Mexico,0.929,0.89,0.939,0.84,35,NM
+New York,0.998,1.0,1.0,1.0,36,NY
+North Carolina,0.406,0.37,0.458,0.36,37,NC
+North Dakota,0.0,0.0,0.0,0.0,38,ND
+Ohio,0.048,0.05,0.068,0.11,39,OH
+Oklahoma,0.0,0.0,0.0,0.0,40,OK
+Oregon,0.991,0.97,0.997,0.96,41,OR
+Pennsylvania,0.504,0.49,0.565,0.46,42,PA
+Rhode Island,0.997,0.99,0.996,0.97,44,RI
+South Carolina,0.01,0.01,0.009,0.03,45,SC
+South Dakota,0.0,0.0,0.0,0.0,46,SD
+Tennessee,0.0,0.0,0.0,0.0,47,TN
+Texas,0.068,0.07,0.095,0.1,48,TX
+Utah,0.0,0.0,0.001,0.0,49,UT
+Vermont,1.0,1.0,1.0,1.0,50,VT
+Virginia,0.918,0.9,0.919,0.81,51,VA
+Washington,0.998,1.0,1.0,1.0,53,WA
+West Virginia,0.0,0.0,0.0,0.0,54,WV
+Wisconsin,0.592,0.57,0.639,0.49,55,WI
+Wyoming,0.0,0.0,0.0,0.0,56,WY
+Electoral College,0.503,0.501,0.504,0.46,,
